@@ -1,0 +1,4 @@
+memory-profiler
+mypy
+git+https://github.com/psf/black
+isort

@@ -1,0 +1,2 @@
+ls | grep -E "\.csv$|\.prof$|\.flag$|\.png$" | xargs rm -rf
+rm -rf mazes/

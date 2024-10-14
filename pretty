@@ -1,0 +1,6 @@
+echo "Formatting code..."
+black ./ -l 120
+echo "Sorting imports..."
+isort ./
+echo "Checking types..."
+./type
